@@ -1,6 +1,13 @@
 body {
     background-color: pink;
     font-family: sans-serif;
+    background-color: pink;
+    }
+
+    #labrador{
+        width: 300px;
+        height: 200px;
+        border: 1px solid black;
     }
 
 
